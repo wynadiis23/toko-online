@@ -70,7 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Cloning
-Composer install
-Composer update
-php artisan key:generate
+Composer install <br>
+Composer update<br>
+php artisan key:generate<br>
 php artisan config:cache
